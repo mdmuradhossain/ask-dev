@@ -4,7 +4,7 @@
 ### Technology and Tools Used
 - [JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Spring Boot - 2.3.9.RELEASE](https://spring.io/projects/spring-boot)
-- [Spring Boot Data JPA](https://spring.io/projects/spring-data-jpa)
+- [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Spring Security](https://spring.io/projects/spring-security)
 - [Thymeleaf](https://www.thymeleaf.org/)
 - [Java Mail Sender](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mail/javamail/JavaMailSender.html)  
